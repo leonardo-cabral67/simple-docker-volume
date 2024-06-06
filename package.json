@@ -4,6 +4,7 @@
   "description": "this aplication is just to testing a creation of a simple docker volume",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev --respawn src/index.ts"
   },
   "keywords": [],
   "author": "",
